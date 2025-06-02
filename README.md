@@ -35,4 +35,4 @@ Written in Python. Infused with love for humanity.
 Run the main script:
 
 ```bash
-python digital_ethics.py
+digital_ethics.py
